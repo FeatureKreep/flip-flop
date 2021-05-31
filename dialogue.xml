@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="UTF-8"?>
+<Dialogues>
+
+		<Dialogue id='Intro'>
+			<Line id='0' type='End'>I'll need a lot of duct tape for that.</Line>
+		</Dialogue>
+
+
+		<Dialogue id='1'>
+			<Line id='0'>Alright, there's the first shard! That was fast.</Line>
+			<Line id='1'>Hm, but how do I reach it? It's quite far from the edge, and I'm in no physical shape.</Line>
+			<Line id='2'>Think, Dr. Flips. THINK!</Line>
+			<Line id='3'>You're supposed to be a genius! I mean, you even refer to yourself in the third person.</Line>
+			<Line id='4'> . . . . . </Line>
+			<Line id='5'>Okay, I think I got it. I'll just use my...</Line>
+			<Line id='6'>INCREDIBLE, FANTABULOUS, CUTTING-EDGE, RELITY-DEFYING FLIP-O-MATIC 3000! (trademarked) </Line>
+			<Line id='7'>It sure is great that I'm so well-versed in mirrorology.</Line>
+			<Line id='8'>All I gotta do is press X  and everything to my left will be mirror-flipped to my right.</Line>
+			<Line id='9'>I'll grab the shard and then jump back to my dimension.</Line>
+			<Line id='10' type='End'>Alright, less talking, more mirror-flipping!</Line>
+			
+		</Dialogue>
+
+		<Dialogue id='2'>
+			<Line id='0'>I think I'm starting to get the hang of it.</Line>
+			<Line id='1' type='End'>As expected of Dr. Flips.</Line>
+		</Dialogue>
+		
+		<Dialogue id='7'>
+			<Line id='0'>Doesn't take a genius to know that these spikes mean trouble.</Line>
+			<Line id='1' type='End'>(I still am a genius, though.)</Line>
+		</Dialogue>
+		
+		<Dialogue id='10'>
+			<Line id='0'>Oh, well that's something new.</Line>
+			<Line id='1'>If my eyes don't decieve me, that's a block of mirrorite.</Line>
+			<Line id='2' type='End'>It's the only known metal that can't be reflected by my Flip-o-matic.</Line>
+		</Dialogue>
+		
+		<Dialogue id='Finale'>
+			<Line id='0'>Ok, I think that's all of them.</Line>
+			<Line id='1'>Maybe next time I should find a safer hobby, like building nuclear reactors.</Line>
+			<Line id='2'>Then again, that would be a waste of a perfectly good last name, eh Dr. Flips?</Line>
+			<Line id='3' type='End'>Now, to continue with my experiment...</Line>
+		</Dialogue>
+		
+		<Dialogue id='Finale2'>
+			<Line id='1' type='End'>Kick the man while he's down, why don'tcha...</Line>
+			</Dialogue>
+		
+</Dialogues>
