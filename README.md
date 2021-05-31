@@ -1,6 +1,6 @@
-# Flip Flop
+# FLIP FLOP
 
-## Controls
+## 🕹️ Controls
 
 Arrow keys — movement
 
